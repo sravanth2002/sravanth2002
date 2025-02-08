@@ -42,7 +42,7 @@
 
 ### 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/pulipaka-sravanth">
+  <a href="https://www.linkedin.com/in/pulipaka-sravanth-02a3091b4">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/sravanth2002">

@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pulipaka Sravanth</h1>
 <h3 align="center">Associate Software Engineer at Experian India</h3>
 
-<p align="center">
-  <img src="https://your-image-url-here.jpg" width="200" height="200" style="border-radius: 50%;" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sravanth2002&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />

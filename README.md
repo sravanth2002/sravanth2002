@@ -12,7 +12,7 @@
 - 💼 Working as **Associate Software Engineer** at **Experian India Services Pvt Ltd**  
 - 🚀 Passionate about **Data Engineering, Python, and AWS**  
 - 💡 Exploring **Cloud Computing, DevOps, and Big Data**  
-- 📫 Reach me at: **pulipaka.sravanth@example.com**  
+- 📫 Reach me at: **pulipaka.sravanth@outlook.com**  
 
 ---
 
